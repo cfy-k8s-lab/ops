@@ -1,0 +1,7 @@
+apiVersion: gitops.cfy.cz/v1
+kind: Deployment
+metadata:
+  name: foo
+spec:
+  repository: nginx
+  tag: 0.0.0
