@@ -4,4 +4,4 @@ metadata:
   name: foo
 spec:
   repository: nginx
-  tag: '27963945568'
+  tag: 4.5.8-build-34
